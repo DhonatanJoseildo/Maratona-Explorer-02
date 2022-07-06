@@ -28,11 +28,24 @@ body.pink-light {
   --primary-color: #D6336C;
   --prymary-color-dark: #A61E4D;
 }
+body.pink-dark{
+  --bg-color: #1F000B;
+  --text-color: #FFF0F6;
+  --primary-color: #D6336C;
+  --prymary-color-dark: #A61E4D;
+}
+
+body.green-dark{
+  --bg-color: #001f05;
+  --text-color: #f0fff2;
+  --primary-color: #15d625;
+  --prymary-color-dark: #1ea647;
+}
+
 .container{
   text-align: center;
   width: 300px;
   margin: 60px auto;
-  
 }
 
 a{
